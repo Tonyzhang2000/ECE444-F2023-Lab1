@@ -10,3 +10,16 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 ## Activity 3
 ![Sample Image](images/a3.png)
+
+## Activity 4
+a4-1
+![Sample Image](images/a4-1.png)
+
+a4-2
+![Sample Image](images/a4-2.png)
+
+a4-3
+![Sample Image](images/a4-3.png)
+
+a4-4
+![Sample Image](images/a4-4.png)
