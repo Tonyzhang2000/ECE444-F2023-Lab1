@@ -1,0 +1,9 @@
+flask
+flask_bootstrap
+flask_moment
+flask_wtf
+itsdangerous
+email_validator
+jinja2
+werkzeug
+wtforms
